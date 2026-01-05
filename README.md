@@ -35,7 +35,7 @@ I build web & mobile experiences while keeping **security, performance, and main
 
 ---
 
-## 🧰 Tech Stack (with logos)
+## 🧰 Tech Stack
 
 ### 🌐 Frontend
 <p>
@@ -101,8 +101,8 @@ I build web & mobile experiences while keeping **security, performance, and main
 
 - 💬 **GitHub:** https://github.com/MuradCyber02  
 - 🧾 **Open an Issue (fastest):** https://github.com/MuradCyber02/MuradCyber02/issues  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/<your-linkedin-username>/  _(replace)_  
-- ✉️ **Email:** yourmail@example.com _(replace)_  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muradkerimov02/
+- ✉️ **Email:** muradcyber02@example.com 
 
 ---
 
